@@ -10,8 +10,6 @@
             <td><img src="Neha picture.jpg" alt="Neha picture"></td>
             <td><h1>Neha Sharma</h1>
             <p><em>Best <strong><a href="https://en.wikipedia.org/wiki/Stock_market">Share Marketer</a></strong></em></p>
-          </tr>
-        </table>
     <hr>
     <h3>My Education</h3>
     <ul>
@@ -28,5 +26,3 @@
     </ul>
     <hr>
     <a href="achivements.html">My Achivements</a>
-  </body>
-</html>
