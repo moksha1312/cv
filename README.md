@@ -26,5 +26,3 @@
     </ul>
     <hr>
     <a href="achivements.html">My Achivements</a>
-  </body>
-</html>
